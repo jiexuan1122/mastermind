@@ -1,4 +1,8 @@
 #Mastermind Computer Game
+#This is a computer game where player have to correctly guess the list of four random colours in a correct order. 
+#If player guessed the correct colour in the correct place, the program will print out 'correct colour in correct place'.
+#Vise versa, if the player guessed the correct colour in the wrong place, the program will print out 'correct colour but in wrong place'.
+#The player wins the game by guessing the correct colour and order of the list.
 
 def menu():
 
